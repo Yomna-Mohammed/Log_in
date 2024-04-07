@@ -1,0 +1,99 @@
+*{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  transition: 1.2s ease-in-out;
+  color: #fff;
+}
+body{
+  background-image: url(cortney-white-8aoRv0gi5a4-unsplash.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position:top;
+  height: 34dvi;
+  font-size: 2dvi;
+  margin-top: 80px;
+}
+.login{
+}
+
+h1{
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  width: 30%;
+  height: 100%;
+  box-shadow: 0px 0px 100px 10px inset #ffffffc0;  
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+input{
+  margin-bottom: 10px;
+  font-size: 20px;
+  width: 20dvi;
+  margin-left: -3dvi;
+  padding: 10px;
+  border-radius: 10px;
+  width: 20dvi;
+}
+.input{
+  border-color:rgb(93, 146, 154);
+  color: rgb(93, 146, 154);
+}
+.button{
+  margin-left: -3dvi;
+  width: 22dvi;
+  background-color:rgb(93, 146, 154) ;
+  margin-bottom: 10px;
+  font-size: 25px;
+  width: 20dvi;
+  margin-left: -3dvi;
+  padding: 10px;
+  border-radius: 10px;
+  width: 20dvi;
+  text-align: center;
+
+}
+.FP{
+  font-size: 20px;
+}
+.SignUp{
+  width: 30%;
+  height: 30px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 0px 100px 10px inset #ffffffc0;  
+  border: 1px solid #fff;
+  font-size: 15px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.checkbox{
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+h4{
+  color: #fff;
+  margin-top: 10px;
+}
+h4 a:hover{
+  box-shadow: 0px 0px 100px 10px inset #ffffff81;
+  padding: 10px;
+  border-radius: 10px;
+}
